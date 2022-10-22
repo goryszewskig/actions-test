@@ -182,3 +182,5 @@
 2022-10-20 00:54:40,852 - __main__ - INFO - Weather in Poland: 3.45
 2022-10-21 00:53:54,979 - __main__ - INFO - Token value: secret!
 2022-10-21 00:53:55,711 - __main__ - INFO - Weather in Poland: -1.45
+2022-10-22 01:01:23,631 - __main__ - INFO - Token value: secret!
+2022-10-22 01:01:24,055 - __main__ - INFO - Weather in Poland: 10.98
