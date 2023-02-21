@@ -425,3 +425,5 @@
 2023-02-19 00:40:43,698 - __main__ - INFO - Weather in Poland: 5.1
 2023-02-20 00:41:57,477 - __main__ - INFO - Token value: secret!
 2023-02-20 00:41:58,360 - __main__ - INFO - Weather in Poland: -0.2
+2023-02-21 00:42:09,823 - __main__ - INFO - Token value: secret!
+2023-02-21 00:42:10,802 - __main__ - INFO - Weather in Poland: 8.08
